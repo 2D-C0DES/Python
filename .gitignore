@@ -1,2 +1,8 @@
 # Ignore all text files
 *.txt
+
+
+# Ignore specific game files
+projects/first_repo/__pycache__/
+projects/first_repo/temp/
+projects/first_repo/*.txt
